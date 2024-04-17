@@ -1,0 +1,6 @@
+tk
+psutil
+datetime
+requests
+pillow
+python-dotenv
